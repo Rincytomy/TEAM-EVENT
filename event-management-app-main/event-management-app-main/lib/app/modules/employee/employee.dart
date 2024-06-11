@@ -1,0 +1,9 @@
+export 'home/bindings/home_binding.dart';
+export 'home/controller/home_controller.dart';
+export 'home/view/home_view.dart';
+export 'login/bindings/login_bindings.dart';
+export 'login/controller/login_controller.dart';
+export 'login/view/login_view.dart';
+export 'register/bindings/register_binding.dart';
+export 'register/controller/register_controller.dart';
+export 'register/view/register_view.dart';

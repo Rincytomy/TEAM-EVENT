@@ -1,0 +1,27 @@
+name: event_management_admin
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.19.3 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+  get_storage: ^2.1.1
+  intl: ^0.18.1
+  dio: ^5.1.1
+  responsive_builder: ^0.6.4
+  feather_icons: ^1.2.0
+  carousel_slider: ^4.2.1
+
+dev_dependencies: 
+  flutter_lints: 2.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
